@@ -1,0 +1,2 @@
+# sqlitebrowser
+可以打开微信EnMicroMsg.db的sqlitebrowser
