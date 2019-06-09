@@ -1,6 +1,7 @@
 # sqlitebrowser
-# 可以打开微信EnMicroMsg.db的sqlitebrowser
+# 可以打开微信(7.0.4)EnMicroMsg.db的sqlitebrowser
 
+[Download DB Browser for SQLCipher.7z](./Release/DB\ Browser\ for\ SQLCipher.7z)
 
 ![](./png/1.png)
 
