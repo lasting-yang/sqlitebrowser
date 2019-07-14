@@ -4,19 +4,6 @@
 [Download DB Browser for SQLCipher.7z](https://github.com/lasting-yang/sqlitebrowser/raw/master/Release/DB%20Browser%20for%20SQLCipher.7z)
 
 
-# sha256
-```
-4aabbf73aaf2a49c3f0bfe2251e93e9419b5c57ce0eb547ef0dc6b1de622855f *DB Browser for SQLCipher.7z
-08fe568cba7a899b926c706db328e52dd241f402ecb40721014133fdcce909a6 *DB Browser for SQLCipher.exe
-fe5f561ccd358f77801e086779b4f5b2673b2da34b9485079420a1714989cb35 *libeay32.dll
-4f7795d41c0eabb93a019fd81c5f6e2a1558ae2ffb443778dfed129ed350a2c0 *Qt5Core.dll
-7d734b80bc11f7ee84efc7fa02bcb458f8e1686282ae1aa0445da40fc8dff793 *Qt5Gui.dll
-12edffe5be2d9832165f027d7c56a6b046b241ea0aed8e6fa3e85f8155e4a8da *Qt5Network.dll
-475efe8c62dc52db46752bc2bc7b72ffd591f4c91f4d1cd7b978232273f15ebb *Qt5PrintSupport.dll
-416885c5c9f3bd1fe51a2d48c2e45add07f3e9c6115c8190e21c0a34ce7c6f5d *Qt5Widgets.dll
-450cae71fe3b917fca6fac71e654f7682eeff48b0bcf1e578b45aa758cf9aad3 *Qt5Xml.dll
-a7681ebd8460a880ee24978fe93307ff973caeaff878a3469fb2da1693d57920 *sqlcipher.dll
-```
 
 ![](./png/1.png)
 
